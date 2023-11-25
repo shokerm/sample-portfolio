@@ -1,0 +1,32 @@
+#works {
+  width: 100%;
+  background-color: #f6f6f6;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+#works-wrap {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+#works-wrap > div {
+  width: 25%;
+  background-color: #ffffff;
+  padding-bottom: 25px;
+}
+
+.works-image {
+  max-width: 100%;
+  border-radius: 5%;
+}
+
+@media only screen and (max-width: 800px) {
+  #worksflex > div {
+    width: 100%;
+    margin: 20px;
+  }
+}

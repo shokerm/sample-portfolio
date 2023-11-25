@@ -1,0 +1,14 @@
+#tech-icnos {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+@media only screen and (max-width: 800px) {
+  #assets > div {
+    width: 25%;
+    box-sizing: border-box;
+  }
+}
