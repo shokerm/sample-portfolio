@@ -92,7 +92,8 @@ h3 {
   left: 0px;
   width: 1920px;
   height: 350px;
-  background: transparent url("images/Path\ 15.png") 0% 0% no-repeat padding-box;
+  background: transparent url("../images/Path\ 15.png") 0% 0% no-repeat
+    padding-box;
   opacity: 1;
 }
 .input-conatainer {
