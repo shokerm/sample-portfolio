@@ -1,7 +1,7 @@
 # Sample Portfolio
 - Native Html + CSS.
 - Responsive view.
-- No javascript & bootstrap
+- <strong>No</strong> javascript & bootstrap
 - [Demo view](https://shokerm.github.io/sample-portfolio/)
 # Desktop Screenshots
 ![image](https://github.com/shokerm/sample-portfolio/assets/96984377/7b5fd896-7b10-421f-a64d-ea5611e373ce)
