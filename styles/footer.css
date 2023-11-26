@@ -24,6 +24,7 @@
   #footer-icons {
     flex-direction: row;
     font-size: 12px;
+    gap: 0;
   }
   #footer-icons div {
     width: auto;
